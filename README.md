@@ -107,3 +107,17 @@ The automated pipeline confirms that the application passes linting and unit tes
 ## Task Outcome
 
 The completed pipeline demonstrates a multi-stage automated CI/CD process with sequential validation, artifact-based deployment, and visible execution status metrics through GitHub Actions.
+
+## Pipeline Evidence
+
+### Repository Overview
+
+![Repository Overview](screenshots/repository-overview.jpg)
+
+### Successful Pipeline Run
+
+![Successful Pipeline Run](screenshots/pipeline-success.jpg)
+
+### Deployment Metrics
+
+![Deployment Metrics](screenshots/deployment-metrics.jpg)
