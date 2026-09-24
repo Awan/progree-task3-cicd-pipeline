@@ -1,5 +1,7 @@
 # Progree Task 3 — CI/CD Pipeline
 
+[![CI/CD Pipeline](https://github.com/Awan/progree-task3-cicd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Awan/progree-task3-cicd-pipeline/actions/workflows/ci.yml)
+
 A multi-stage automated CI/CD deployment pipeline built with GitHub Actions to demonstrate automated code validation, artifact generation, deployment, and execution metrics.
 
 ## Objective
